@@ -1,5 +1,9 @@
 # 💫 Hi 👋, I'm Jitendra Rout
-**A passionate about technology, coding, and AI/ML-based solutions. I recently completed an internship at InternPe, where I gained hands-on experience in real-world tech projects. I'm always eager to learn new skills, grow in the tech field, and contribute to innovative projects.**
+** 💻 Python Full Stack Developer 
+   🚀 Building real-world web applications  
+   📚 Continuously learning & improving DSA  
+   🎯 Goal: To become a skilled Software Engineer  
+   ⚡ Turning ideas into scalable solutions  **
 
 Email Me 👉 ✉️ **jitendrarout.ai@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
